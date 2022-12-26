@@ -3,7 +3,6 @@
 <p align="center" style="display: flex">
   <img src="./laugh.gif" alt="laugh gif">
   <img src="./laugh.gif" alt="laugh gif">
-  <img src="./laugh.gif" alt="laugh gif">
 </p>
 
 
