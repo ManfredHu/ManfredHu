@@ -1,6 +1,6 @@
 👏 Hello, everyone. I'm ManfredHu. I like writing code and exploring new things on the Internet..
 
-<p align="center">
+<p align="center" style="display: flex">
   <img src="./laugh.gif" alt="laugh gif">
   <img src="./laugh.gif" alt="laugh gif">
   <img src="./laugh.gif" alt="laugh gif">
