@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="./laugh.gif" alt="laugh gif">
+  <img src="./laugh.gif" alt="laugh gif">
+  <img src="./laugh.gif" alt="laugh gif">
 </p>
 
 
