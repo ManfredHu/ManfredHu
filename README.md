@@ -1,4 +1,4 @@
-Hello, everyone. I'm ManfredHu, now working in ByteDance on Native App Develop.
+👏 Hello, everyone. I'm ManfredHu. I like writing code and exploring new things on the Internet..
 
 <p align="center">
   <img src="./laugh.gif" alt="laugh gif">
