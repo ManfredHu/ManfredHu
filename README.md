@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Hello, everyone. I'm ManfredHu, now working in ByteDance on Native App Develop.
 
 <p align="center">
